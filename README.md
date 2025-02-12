@@ -1,4 +1,4 @@
-# Healthcare Insights Dashboard with Power BI
+# Patient Insights & Service Optimization Dashboard with Power BI
 
 ## Project Overview
 
