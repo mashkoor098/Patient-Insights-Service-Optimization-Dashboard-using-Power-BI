@@ -92,3 +92,7 @@ The main question this project seeks to answer is:
      - Compare the outcomes and costs of these alternatives to the current methods and consider wider adoption if successful.
 
 ## Dashboard Screenshot
+
+![image](https://github.com/user-attachments/assets/9246c43b-ea1b-423e-a16c-3a7ec9e410fa)
+
+![image](https://github.com/user-attachments/assets/1274815c-7447-4dc6-bb44-f4b6445c8274)
